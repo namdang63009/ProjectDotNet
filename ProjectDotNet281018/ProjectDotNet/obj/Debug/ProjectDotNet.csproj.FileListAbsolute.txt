@@ -1,0 +1,49 @@
+D:\Laptrinh\C# demo\ProjectDotNet\ProjectDotNet\bin\Debug\ProjectDotNet.exe.config
+D:\Laptrinh\C# demo\ProjectDotNet\ProjectDotNet\bin\Debug\ProjectDotNet.exe
+D:\Laptrinh\C# demo\ProjectDotNet\ProjectDotNet\bin\Debug\ProjectDotNet.pdb
+D:\Laptrinh\C# demo\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.csprojAssemblyReference.cache
+D:\Laptrinh\C# demo\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.Form1.resources
+D:\Laptrinh\C# demo\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.Properties.Resources.resources
+D:\Laptrinh\C# demo\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.csproj.GenerateResource.cache
+D:\Laptrinh\C# demo\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C# demo\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.exe
+D:\Laptrinh\C# demo\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.pdb
+E:\Folder Study Source\for study\PRN292\Code\ProjectDotNet\ProjectDotNet\bin\Debug\ProjectDotNet.exe.config
+E:\Folder Study Source\for study\PRN292\Code\ProjectDotNet\ProjectDotNet\bin\Debug\ProjectDotNet.exe
+E:\Folder Study Source\for study\PRN292\Code\ProjectDotNet\ProjectDotNet\bin\Debug\ProjectDotNet.pdb
+E:\Folder Study Source\for study\PRN292\Code\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.csprojAssemblyReference.cache
+E:\Folder Study Source\for study\PRN292\Code\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.Form1.resources
+E:\Folder Study Source\for study\PRN292\Code\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.Properties.Resources.resources
+E:\Folder Study Source\for study\PRN292\Code\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.csproj.GenerateResource.cache
+E:\Folder Study Source\for study\PRN292\Code\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.csproj.CoreCompileInputs.cache
+E:\Folder Study Source\for study\PRN292\Code\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.exe
+E:\Folder Study Source\for study\PRN292\Code\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.pdb
+D:\Semester5\PRN292-C#.Net\Codes\ProjectDotNet\ProjectDotNet\bin\Debug\ProjectDotNet.exe.config
+D:\Semester5\PRN292-C#.Net\Codes\ProjectDotNet\ProjectDotNet\bin\Debug\ProjectDotNet.exe
+D:\Semester5\PRN292-C#.Net\Codes\ProjectDotNet\ProjectDotNet\bin\Debug\ProjectDotNet.pdb
+D:\Semester5\PRN292-C#.Net\Codes\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.csprojAssemblyReference.cache
+D:\Semester5\PRN292-C#.Net\Codes\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.Form1.resources
+D:\Semester5\PRN292-C#.Net\Codes\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.Properties.Resources.resources
+D:\Semester5\PRN292-C#.Net\Codes\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.csproj.GenerateResource.cache
+D:\Semester5\PRN292-C#.Net\Codes\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.csproj.CoreCompileInputs.cache
+D:\Semester5\PRN292-C#.Net\Codes\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.exe
+D:\Semester5\PRN292-C#.Net\Codes\ProjectDotNet\ProjectDotNet\obj\Debug\ProjectDotNet.pdb
+D:\Semester5\PRN292-C#.Net\ProjectDotNet-test\ProjectDotNet\bin\Debug\ProjectDotNet.exe.config
+D:\Semester5\PRN292-C#.Net\ProjectDotNet-test\ProjectDotNet\bin\Debug\ProjectDotNet.exe
+D:\Semester5\PRN292-C#.Net\ProjectDotNet-test\ProjectDotNet\bin\Debug\ProjectDotNet.pdb
+D:\Semester5\PRN292-C#.Net\ProjectDotNet-test\ProjectDotNet\obj\Debug\ProjectDotNet.Form1.resources
+D:\Semester5\PRN292-C#.Net\ProjectDotNet-test\ProjectDotNet\obj\Debug\ProjectDotNet.Properties.Resources.resources
+D:\Semester5\PRN292-C#.Net\ProjectDotNet-test\ProjectDotNet\obj\Debug\ProjectDotNet.csproj.GenerateResource.cache
+D:\Semester5\PRN292-C#.Net\ProjectDotNet-test\ProjectDotNet\obj\Debug\ProjectDotNet.csproj.CoreCompileInputs.cache
+D:\Semester5\PRN292-C#.Net\ProjectDotNet-test\ProjectDotNet\obj\Debug\ProjectDotNet.exe
+D:\Semester5\PRN292-C#.Net\ProjectDotNet-test\ProjectDotNet\obj\Debug\ProjectDotNet.pdb
+D:\source\ProjectDotNet281018\ProjectDotNet\bin\Debug\ProjectDotNet.exe.config
+D:\source\ProjectDotNet281018\ProjectDotNet\bin\Debug\ProjectDotNet.exe
+D:\source\ProjectDotNet281018\ProjectDotNet\bin\Debug\ProjectDotNet.pdb
+D:\source\ProjectDotNet281018\ProjectDotNet\obj\Debug\ProjectDotNet.csprojAssemblyReference.cache
+D:\source\ProjectDotNet281018\ProjectDotNet\obj\Debug\ProjectDotNet.Form1.resources
+D:\source\ProjectDotNet281018\ProjectDotNet\obj\Debug\ProjectDotNet.Properties.Resources.resources
+D:\source\ProjectDotNet281018\ProjectDotNet\obj\Debug\ProjectDotNet.csproj.GenerateResource.cache
+D:\source\ProjectDotNet281018\ProjectDotNet\obj\Debug\ProjectDotNet.csproj.CoreCompileInputs.cache
+D:\source\ProjectDotNet281018\ProjectDotNet\obj\Debug\ProjectDotNet.exe
+D:\source\ProjectDotNet281018\ProjectDotNet\obj\Debug\ProjectDotNet.pdb
